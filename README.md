@@ -58,8 +58,8 @@ Hier kannst du die Entwicklung der Benutzeroberfläche und der Funktionalität i
 ### 1. Hyperskill Entwurf (Klassisches XML-Layout)
 
 <div align="center">
-  <video controls width="75%" poster="./images/stopwatch_old.png">
-    <source src="https://github.com/Dima0687/stopwatch-kotlin-android/raw/refs/heads/finished-with-new-ui-and-features/clips/before_hs_layout_small.webm">
+  <video controls width="75%" poster="https://raw.githubusercontent.com/Dima0687/stopwatch-kotlin-android/refs/heads/finished-with-new-ui-and-features/images/stopwatch_old.png">
+    <source src="https://github.com/Dima0687/stopwatch-kotlin-android/raw/refs/heads/finished-with-new-ui-and-features/clips/before_hs_layout_small.mp4" type="video/mp4">
     Dein Browser unterstützt den Video TAG nicht.
   </video>
 </div>
@@ -71,8 +71,8 @@ Hier kannst du die Entwicklung der Benutzeroberfläche und der Funktionalität i
 ### 2. Moderner Entwurf (Jetpack Compose & Productivity Features)
 
 <div align="center">
-  <video controls width="75%" poster="./images/stopwatch_modern.png">
-    <source src="https://github.com/Dima0687/stopwatch-kotlin-android/raw/refs/heads/finished-with-new-ui-and-features/clips/after_hs_layout_small.webm">
+  <video controls width="75%" poster="https://raw.githubusercontent.com/Dima0687/stopwatch-kotlin-android/refs/heads/finished-with-new-ui-and-features/images/stopwatch_modern.png">
+    <source src="https://github.com/Dima0687/stopwatch-kotlin-android/raw/refs/heads/finished-with-new-ui-and-features/clips/after_hs_layout_small.mp4" type="video/mp4">
     Dein Browser unterstützt den Video TAG nicht.
   </video>
 </div>
@@ -167,8 +167,8 @@ Here you can see the evolution of the user interface and functionality in direct
 ### 1. Hyperskill Draft (Classic XML Layout)
 
 <div align="center">
-  <video controls width="75%" poster="./images/stopwatch_old.png">
-    <source src="https://github.com/Dima0687/stopwatch-kotlin-android/raw/refs/heads/finished-with-new-ui-and-features/clips/before_hs_layout_small.webm">
+  <video controls width="75%" poster="https://raw.githubusercontent.com/Dima0687/stopwatch-kotlin-android/refs/heads/finished-with-new-ui-and-features/images/stopwatch_old.png">
+    <source src="https://github.com/Dima0687/stopwatch-kotlin-android/raw/refs/heads/finished-with-new-ui-and-features/clips/before_hs_layout_small.mp4" type="video/mp4">
     Your browser does not support the video tag.
   </video>
 </div>
@@ -180,8 +180,8 @@ Here you can see the evolution of the user interface and functionality in direct
 ### 2. Modern Draft (Jetpack Compose & Productivity Features)
 
 <div align="center">
-  <video controls width="75%" poster="./images/stopwatch_modern.png">
-    <source src="https://github.com/Dima0687/stopwatch-kotlin-android/raw/refs/heads/finished-with-new-ui-and-features/clips/after_hs_layout_small.webm">
+  <video controls width="75%" poster="https://raw.githubusercontent.com/Dima0687/stopwatch-kotlin-android/refs/heads/finished-with-new-ui-and-features/images/stopwatch_modern.png">
+    <source src="https://github.com/Dima0687/stopwatch-kotlin-android/raw/refs/heads/finished-with-new-ui-and-features/clips/after_hs_layout_small.mp4" type="video/mp4">
     Your browser does not support the video tag.
   </video>
 </div>
