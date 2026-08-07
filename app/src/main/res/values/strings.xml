@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Stopwatch with Productivity Timer</string>
+    <string name="app_btn_start">Start</string>
+    <string name="app_btn_reset">Reset</string>
+    <string name="dialog_upper_limit_in_seconds">Upper limit in seconds</string>
+    <string name="settings">Settings</string>
+</resources>
